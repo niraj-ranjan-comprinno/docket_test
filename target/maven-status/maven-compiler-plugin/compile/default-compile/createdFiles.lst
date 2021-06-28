@@ -1,0 +1,8 @@
+com/tevico/test/demo/utility/AMQPConnector.class
+com/tevico/test/demo/DemoApplication.class
+com/tevico/test/demo/TestWorker/testWorker.class
+com/tevico/test/demo/TestWorker/TestQueueProcessHandler.class
+com/tevico/test/demo/TestWorker/QueueProcessHandler.class
+com/tevico/test/demo/utility/WorkerRunnable$1.class
+com/tevico/test/demo/utility/WorkerRunnable.class
+com/tevico/test/demo/utility/AMQPSubscriber.class
